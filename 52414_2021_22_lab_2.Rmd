@@ -60,7 +60,7 @@ take this into account. Specifically, the calculations should ignore the missing
 
 #### PART 1 - MOBY-DICK
 
-1.a. Load the complete `Moby dick`  book from the [Gutenberg project](https://www.gutenberg.org) into `R`. The book is available [Here](https://www.gutenberg.org/files/2701/2701-h/2701-h.htm#link2HCH0004). 
+1.a. Load the complete `Moby dick`  book from the [Gutenberg project](https://www.gutenberg.org) into `R`. The book is available [here](https://www.gutenberg.org/files/2701/2701-h/2701-h.htm).
 Extract the text from the html as a long string, and print the first line of the text in the file (starting with `The Project Gutenberg ...`)
 
 b. Split the text string into words, separated by spaces, commas (`,`), periods (`.`), and new line characters (`\n` and `\r`). How many words are there? 
